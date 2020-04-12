@@ -1796,7 +1796,7 @@
 "彰":{"uniq":"patent","keys":["proclaim merits"]},
 "彦":{"uniq":"lad","keys":["male name element"]},
 "顔":{"uniq":"face","keys":[]},
-"須":{"uniq":"ought","keys":["must","by all means"]},
+"須":{"uniq":"must","keys":["ought","by all means"]},
 "膨":{"uniq":"swell","keys":["expand"]},
 "参":{"uniq":"nonplussed / visit","keys":["participate","visit a holy place"]},
 "惨":{"uniq":"wretched","keys":["miserable","cruel"]},
